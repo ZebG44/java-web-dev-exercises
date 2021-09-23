@@ -1,6 +1,5 @@
 package org.launchcode.java.demos.lsn5unittesting.main;
 
-import org.w3c.dom.ls.LSOutput;
 
 public class Main {
 
